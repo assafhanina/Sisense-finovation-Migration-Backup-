@@ -1,0 +1,1500 @@
+{
+    "title": "sites_compare",
+    "type": "extract",
+    "buildDestination": {
+        "destination": "elasticube"
+    },
+    "fiscal": "system",
+    "relations": [
+        {
+            "type": null,
+            "columns": [
+                {
+                    "dataset": "83077b43-7c5e-4fdc-af93-3e51d6796964",
+                    "table": "28087519-e168-429c-879e-454a6913b2bd",
+                    "column": "3000e54d-45e5-4f12-88a5-4122601da598"
+                },
+                {
+                    "dataset": "763a03c0-06f2-4fcd-a072-0b17447db455",
+                    "table": "d1561df6-17cd-4327-9f93-9ed35725570c",
+                    "column": "934a55ef-6cc4-4940-af6e-7a1507de46c2"
+                },
+                {
+                    "dataset": "44f54034-85cd-461a-9205-f5a06fea7edc",
+                    "table": "2d1c8d2a-d707-401e-a164-58cf3c40c2e9",
+                    "column": "cb15da2d-f56f-457c-b1f5-a9fba2b5763a"
+                },
+                {
+                    "dataset": "9b4294f1-f8ae-45e5-a4df-1505224e41ca",
+                    "table": "d263965f-0889-478c-8e9e-7e8e7147a76e",
+                    "column": "f654e72a-8c31-410f-be0a-b457e71d81b2"
+                }
+            ]
+        },
+        {
+            "type": null,
+            "columns": [
+                {
+                    "dataset": "39ce3208-d4a3-43a7-82dd-209512ca4ad9",
+                    "table": "2819ad78-d209-4231-8ca7-a43b8e72d0cb",
+                    "column": "61139585-3bcb-4e68-b02c-1eeda1152cac"
+                },
+                {
+                    "dataset": "763a03c0-06f2-4fcd-a072-0b17447db455",
+                    "table": "d1561df6-17cd-4327-9f93-9ed35725570c",
+                    "column": "86131444-0e9c-4801-9827-252a157d6ada"
+                },
+                {
+                    "dataset": "44f54034-85cd-461a-9205-f5a06fea7edc",
+                    "table": "2d1c8d2a-d707-401e-a164-58cf3c40c2e9",
+                    "column": "f7100a08-66d0-49f1-a4bd-91f7af95433d"
+                },
+                {
+                    "dataset": "9b4294f1-f8ae-45e5-a4df-1505224e41ca",
+                    "table": "d263965f-0889-478c-8e9e-7e8e7147a76e",
+                    "column": "21049604-4217-456f-a52c-af62e2b61c46"
+                }
+            ]
+        },
+        {
+            "type": null,
+            "columns": [
+                {
+                    "dataset": "44f54034-85cd-461a-9205-f5a06fea7edc",
+                    "table": "2d1c8d2a-d707-401e-a164-58cf3c40c2e9",
+                    "column": "f4a3ddfc-b1b2-4a7a-b715-4bab5f61feff"
+                },
+                {
+                    "dataset": "39ce3208-d4a3-43a7-82dd-209512ca4ad9",
+                    "table": "d77942f5-3126-41cb-9a6c-713a6e2ad3e4",
+                    "column": "4d9479db-fc88-4494-b4b2-bbe62a185d07"
+                },
+                {
+                    "dataset": "763a03c0-06f2-4fcd-a072-0b17447db455",
+                    "table": "d1561df6-17cd-4327-9f93-9ed35725570c",
+                    "column": "3564c317-19bd-4da1-852d-6fe08704df99"
+                },
+                {
+                    "dataset": "9b4294f1-f8ae-45e5-a4df-1505224e41ca",
+                    "table": "d263965f-0889-478c-8e9e-7e8e7147a76e",
+                    "column": "b2549159-e678-4cb5-bd70-9b25169d3c6a"
+                }
+            ]
+        },
+        {
+            "type": null,
+            "columns": [
+                {
+                    "dataset": "44f54034-85cd-461a-9205-f5a06fea7edc",
+                    "table": "2d1c8d2a-d707-401e-a164-58cf3c40c2e9",
+                    "column": "b5a0f6c8-cb1e-412f-bd1e-74e2c037d707"
+                },
+                {
+                    "dataset": "9cf97f9e-72d1-4f0c-9923-0d6cc762474a",
+                    "table": "7a01fa7a-60bd-463f-915c-f65f3ce1443e",
+                    "column": "833a8ad4-da31-4d57-96fa-aacf97ca300a"
+                },
+                {
+                    "dataset": "763a03c0-06f2-4fcd-a072-0b17447db455",
+                    "table": "d1561df6-17cd-4327-9f93-9ed35725570c",
+                    "column": "6b2b10d1-736f-4285-bf07-c5c455ee0f86"
+                },
+                {
+                    "dataset": "9b4294f1-f8ae-45e5-a4df-1505224e41ca",
+                    "table": "d263965f-0889-478c-8e9e-7e8e7147a76e",
+                    "column": "9a323d79-9248-452d-a8a2-f317cab27ddf"
+                }
+            ]
+        },
+        {
+            "type": null,
+            "columns": [
+                {
+                    "dataset": "a73a2115-b910-4d62-a82e-033a57d593b5",
+                    "table": "1b8c98b9-89d7-4a9a-ad9c-d60ff1277919",
+                    "column": "b7fd58ff-1d39-4bb4-9ca3-fee32f2e1d78"
+                },
+                {
+                    "dataset": "763a03c0-06f2-4fcd-a072-0b17447db455",
+                    "table": "d1561df6-17cd-4327-9f93-9ed35725570c",
+                    "column": "b41f9248-76f7-4616-bb1d-96bfa98fbd37"
+                },
+                {
+                    "dataset": "44f54034-85cd-461a-9205-f5a06fea7edc",
+                    "table": "2d1c8d2a-d707-401e-a164-58cf3c40c2e9",
+                    "column": "f833f3fa-35e0-46d4-9797-7077d5592766"
+                },
+                {
+                    "dataset": "9b4294f1-f8ae-45e5-a4df-1505224e41ca",
+                    "table": "d263965f-0889-478c-8e9e-7e8e7147a76e",
+                    "column": "b1c60506-a533-4280-be3e-5c7194f3d88b"
+                }
+            ]
+        }
+    ],
+    "datasets": [
+        {
+            "oid": "39ce3208-d4a3-43a7-82dd-209512ca4ad9",
+            "fullname": "EC2EC:bcb219b1-b95b-44e4-af33-c3e61a103c2f",
+            "type": "extract",
+            "name": "bcb219b1-b95b-44e4-af33-c3e61a103c2f",
+            "modelingTransformations": [],
+            "schema": {
+                "tables": [
+                    {
+                        "oid": "2819ad78-d209-4231-8ca7-a43b8e72d0cb",
+                        "id": "DW_DimDate",
+                        "name": "DW_DimDate",
+                        "type": "base",
+                        "schemaName": "DWH&Crm_Sites",
+                        "expression": null,
+                        "customCode": null,
+                        "columns": [
+                            {
+                                "oid": "61139585-3bcb-4e68-b02c-1eeda1152cac",
+                                "id": "DateKey",
+                                "name": "DateKey",
+                                "type": 8,
+                                "size": 10,
+                                "precision": 10,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            },
+                            {
+                                "oid": "866e3de2-67a1-4ac9-8ba1-3d64ee961a3c",
+                                "id": "Full_Date",
+                                "name": "Full_Date",
+                                "type": 4,
+                                "size": 50,
+                                "precision": 20,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            },
+                            {
+                                "oid": "f0f2bca9-5de8-4dd2-bbdc-3e9a238d7468",
+                                "id": "Filter_Full_Date",
+                                "name": "Filter_Full_Date",
+                                "type": 4,
+                                "size": 50,
+                                "precision": 20,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            },
+                            {
+                                "oid": "69cdf016-1f22-47bb-bfa0-e6fa80ac92db",
+                                "id": "FullDateTime",
+                                "name": "FullDateTime",
+                                "type": 4,
+                                "size": 50,
+                                "precision": 20,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            },
+                            {
+                                "oid": "d5e794c0-5592-4902-bca9-1c7dd56cc62f",
+                                "id": "Calendar_Year_Month",
+                                "name": "Calendar_Year_Month",
+                                "type": 18,
+                                "size": 4000,
+                                "precision": 4000,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": false,
+                                "description": null
+                            },
+                            {
+                                "oid": "f744af06-7c16-4563-b3fa-c1a1bf893978",
+                                "id": "working_days_month_all",
+                                "name": "working_days_month_all",
+                                "type": 0,
+                                "size": 20,
+                                "precision": 20,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            },
+                            {
+                                "oid": "b485d429-e6c1-4f21-a619-5928d72a5c3c",
+                                "id": "work_days_past_all",
+                                "name": "work_days_past_all",
+                                "type": 0,
+                                "size": 20,
+                                "precision": 20,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            },
+                            {
+                                "oid": "4aaccead-acca-4e9a-93d1-4998a7e0c056",
+                                "id": "work_days_left_all",
+                                "name": "work_days_left_all",
+                                "type": 0,
+                                "size": 20,
+                                "precision": 20,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            },
+                            {
+                                "oid": "7e32e917-cced-426e-b95c-448c829a5d12",
+                                "id": "working_days_month_retention",
+                                "name": "working_days_month_retention",
+                                "type": 5,
+                                "size": 39,
+                                "precision": 38,
+                                "scale": 10,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            },
+                            {
+                                "oid": "eec9a497-85dd-49cd-9b52-1ac7813ac85b",
+                                "id": "work_days_past_retention",
+                                "name": "work_days_past_retention",
+                                "type": 5,
+                                "size": 39,
+                                "precision": 38,
+                                "scale": 10,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            },
+                            {
+                                "oid": "05029008-0e3b-4e30-9eaf-9e571f37afe2",
+                                "id": "work_days_left_retention",
+                                "name": "work_days_left_retention",
+                                "type": 5,
+                                "size": 39,
+                                "precision": 38,
+                                "scale": 10,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            },
+                            {
+                                "oid": "6135681f-42d8-4a34-b99b-0776f049acd1",
+                                "id": "dates_join",
+                                "name": "dates_join",
+                                "type": 0,
+                                "size": 20,
+                                "precision": 20,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            },
+                            {
+                                "oid": "cd01f099-5388-4092-afb9-2db090c3e546",
+                                "id": "Weekday_Weekend",
+                                "name": "Weekday_Weekend",
+                                "type": 18,
+                                "size": 4000,
+                                "precision": 4000,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": false,
+                                "description": null
+                            },
+                            {
+                                "oid": "cf22e3ca-049c-449e-acbd-418afaf77232",
+                                "id": "Day_Name_Of_Week",
+                                "name": "Day_Name_Of_Week",
+                                "type": 18,
+                                "size": 4000,
+                                "precision": 4000,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": false,
+                                "description": null
+                            },
+                            {
+                                "oid": "7c8f5ea6-7356-405f-af3e-a06e21f13d39",
+                                "id": "this_month_indicator",
+                                "name": "this_month_indicator",
+                                "type": 0,
+                                "size": 20,
+                                "precision": 20,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            },
+                            {
+                                "oid": "1c98c64e-8a44-48db-956c-319d4fac574d",
+                                "id": "day_date_of_week",
+                                "name": "day_date_of_week",
+                                "type": 18,
+                                "size": 4000,
+                                "precision": 4000,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": false,
+                                "description": null
+                            },
+                            {
+                                "oid": "374ee110-060e-4c61-ad80-4b42839adf52",
+                                "id": "weekdays_group",
+                                "name": "weekdays_group",
+                                "type": 18,
+                                "size": 4000,
+                                "precision": 4000,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": false,
+                                "description": null
+                            },
+                            {
+                                "oid": "0ebf340d-efe5-4b1e-9b08-96504602b6c2",
+                                "id": "week_new",
+                                "name": "week_new",
+                                "type": 0,
+                                "size": 20,
+                                "precision": 20,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            },
+                            {
+                                "oid": "423511aa-dabc-4c67-8aab-ce48ad79a652",
+                                "id": "week_duration",
+                                "name": "week_duration",
+                                "type": 18,
+                                "size": 4000,
+                                "precision": 4000,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": false,
+                                "description": null
+                            }
+                        ],
+                        "buildBehavior": {
+                            "type": "sync",
+                            "accumulativeConfig": null
+                        },
+                        "tupleTransformations": [],
+                        "hidden": false,
+                        "vTag": "693c8ed6-8482-4c16-9389-67ebd7d6bb75",
+                        "configOptions": null,
+                        "description": null,
+                        "tags": null
+                    },
+                    {
+                        "oid": "d77942f5-3126-41cb-9a6c-713a6e2ad3e4",
+                        "id": "dim_country_group",
+                        "name": "dim_country_group",
+                        "type": "base",
+                        "schemaName": "DWH&Crm_Sites",
+                        "expression": null,
+                        "customCode": null,
+                        "columns": [
+                            {
+                                "oid": "4d9479db-fc88-4494-b4b2-bbe62a185d07",
+                                "id": "id",
+                                "name": "id",
+                                "type": 8,
+                                "size": 10,
+                                "precision": 10,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            },
+                            {
+                                "oid": "2b2071f4-4c89-422b-9f9a-4e2b9357288b",
+                                "id": "country_group",
+                                "name": "country_group",
+                                "type": 18,
+                                "size": 4000,
+                                "precision": 4000,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": false,
+                                "description": null
+                            },
+                            {
+                                "oid": "781675cc-c0f6-491b-91fe-833e9237c1a8",
+                                "id": "country_group_desc",
+                                "name": "country_group_desc",
+                                "type": 18,
+                                "size": 4000,
+                                "precision": 4000,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": false,
+                                "description": null
+                            },
+                            {
+                                "oid": "4405e4ed-cb7c-4723-975e-fce29d74bb44",
+                                "id": "wh_country_group",
+                                "name": "wh_country_group",
+                                "type": 18,
+                                "size": 4000,
+                                "precision": 4000,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": false,
+                                "description": null
+                            },
+                            {
+                                "oid": "a1e420ed-696d-484c-8f68-fcf05fb4a906",
+                                "id": "country_group_discription",
+                                "name": "country_group_discription",
+                                "type": 18,
+                                "size": 4000,
+                                "precision": 4000,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": false,
+                                "description": null
+                            },
+                            {
+                                "oid": "3940405e-8394-467d-8390-87be2361f59d",
+                                "id": "is_latam",
+                                "name": "is_latam",
+                                "type": 18,
+                                "size": 4000,
+                                "precision": 4000,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": false,
+                                "description": null
+                            },
+                            {
+                                "oid": "aac53386-b62e-4fdd-9760-de764bd2a635",
+                                "id": "site_filter",
+                                "name": "site_filter",
+                                "type": 0,
+                                "size": 20,
+                                "precision": 20,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            }
+                        ],
+                        "buildBehavior": {
+                            "type": "sync",
+                            "accumulativeConfig": null
+                        },
+                        "tupleTransformations": [],
+                        "hidden": false,
+                        "vTag": "17e5772a-cc80-4e10-a36b-25ea953536c8",
+                        "configOptions": null,
+                        "description": null,
+                        "tags": null
+                    }
+                ]
+            },
+            "connection": {
+                "id": "617263d214c791002c11eb68",
+                "provider": "EC2EC",
+                "parameters": "0uJay0RlWn75SYw5xVdoLe9Qv9iSeqjCcm0voEloMHq6s6kK0s+gmqI3cs9xCKAJDUAj3jCouR8s34/npZ4PEO+lD5tU29F58qM25sXlwMvDmrRfMLj1umG1sYbrlhKnp5/Vvl7qNjgog2FvKp6xfw==",
+                "schema": "DWH&Crm_Sites",
+                "fileName": null,
+                "timeout": 300,
+                "autoRefresh": null,
+                "refreshRate": null,
+                "resultLimit": null,
+                "protectedParameters": [
+                    "password"
+                ],
+                "uiParams": {},
+                "globalTableConfigOptions": null
+            }
+        },
+        {
+            "oid": "44f54034-85cd-461a-9205-f5a06fea7edc",
+            "fullname": "EC2EC:cac4ee91-635d-476b-b8fb-4a8768fa52a1",
+            "type": "extract",
+            "name": "cac4ee91-635d-476b-b8fb-4a8768fa52a1",
+            "modelingTransformations": [],
+            "schema": {
+                "tables": [
+                    {
+                        "oid": "2d1c8d2a-d707-401e-a164-58cf3c40c2e9",
+                        "id": "tq_CCfJiYfrQ",
+                        "name": "Fresh_transactions",
+                        "type": "base",
+                        "schemaName": "DWH&Crm_Sites",
+                        "expression": null,
+                        "customCode": null,
+                        "columns": [
+                            {
+                                "oid": "cb15da2d-f56f-457c-b1f5-a9fba2b5763a",
+                                "id": "customer_key",
+                                "name": "customer_key",
+                                "type": 18,
+                                "size": 10,
+                                "precision": 4000,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": false,
+                                "description": null
+                            },
+                            {
+                                "oid": "f833f3fa-35e0-46d4-9797-7077d5592766",
+                                "id": "employee_key",
+                                "name": "employee_key",
+                                "type": 18,
+                                "size": 10,
+                                "precision": 4000,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": false,
+                                "description": null
+                            },
+                            {
+                                "oid": "b5a0f6c8-cb1e-412f-bd1e-74e2c037d707",
+                                "id": "site_id",
+                                "name": "site_id",
+                                "type": 0,
+                                "size": 10,
+                                "precision": 20,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            },
+                            {
+                                "oid": "f4a3ddfc-b1b2-4a7a-b715-4bab5f61feff",
+                                "id": "locale_group_id",
+                                "name": "locale_group_id",
+                                "type": 8,
+                                "size": 10,
+                                "precision": 10,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            },
+                            {
+                                "oid": "f7100a08-66d0-49f1-a4bd-91f7af95433d",
+                                "id": "ftd_date",
+                                "name": "ftd_date",
+                                "type": 8,
+                                "size": 10,
+                                "precision": 10,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            },
+                            {
+                                "oid": "fc10225b-f9e4-4de4-9b0a-79bd0278fe9e",
+                                "id": "ftd_ind",
+                                "name": "ftd_ind",
+                                "type": 0,
+                                "size": 10,
+                                "precision": 20,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            },
+                            {
+                                "oid": "af782f4d-26a9-489e-a5fc-142f22bef188",
+                                "id": "is_redeposit",
+                                "name": "is_redeposit",
+                                "type": 8,
+                                "size": 10,
+                                "precision": 10,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            },
+                            {
+                                "oid": "915fbf34-e41a-4419-b0d6-636735d57f89",
+                                "id": "is_1k_redeposit",
+                                "name": "is_1k_redeposit",
+                                "type": 8,
+                                "size": 10,
+                                "precision": 10,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            },
+                            {
+                                "oid": "737214ca-539c-47b6-820c-6fb1eca46c15",
+                                "id": "net_deposit_usd",
+                                "name": "net_deposit_usd",
+                                "type": 40,
+                                "size": 10,
+                                "precision": 38,
+                                "scale": 10,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            }
+                        ],
+                        "buildBehavior": {
+                            "type": "sync",
+                            "accumulativeConfig": null
+                        },
+                        "tupleTransformations": [],
+                        "hidden": false,
+                        "vTag": "4f833b1a-831d-4c02-bec9-63eb60e568c8",
+                        "configOptions": {
+                            "importQuery": "select\ncustomer_key,\nemployee_key,\nsite_id,\nlocale_group_id,\nftd_date,\nftd_ind,\nis_redeposit,\nis_1k_redeposit,\nnet_deposit_usd\nfrom Fresh_transactions"
+                        },
+                        "description": null,
+                        "tags": null
+                    }
+                ]
+            },
+            "connection": {
+                "id": "6172679614c791002c11eb86",
+                "provider": "EC2EC",
+                "parameters": "aqjD6ehKeWavTqiO+X+bSDStr0aggJ3F/ItPZagHQgjYXHAjs16W2mHVM4vDB9zS2uGCGOJ7cNjeU2sl5nLET4VioZpQDYAcOr06kmfvEKGbE9lShK2zRhOxVj+vX8/2y5/ff725kEqR3+tYqjB6bw==",
+                "schema": "DWH&Crm_Sites",
+                "fileName": null,
+                "timeout": 300,
+                "autoRefresh": null,
+                "refreshRate": null,
+                "resultLimit": null,
+                "protectedParameters": [
+                    "password"
+                ],
+                "uiParams": {},
+                "globalTableConfigOptions": null
+            }
+        },
+        {
+            "oid": "763a03c0-06f2-4fcd-a072-0b17447db455",
+            "fullname": "EC2EC:e9d60050-79e6-4407-bd9a-8b6edc9d7eac",
+            "type": "extract",
+            "name": "e9d60050-79e6-4407-bd9a-8b6edc9d7eac",
+            "modelingTransformations": [],
+            "schema": {
+                "tables": [
+                    {
+                        "oid": "d1561df6-17cd-4327-9f93-9ed35725570c",
+                        "id": "tq_imxDsIqT9",
+                        "name": "Transactions",
+                        "type": "base",
+                        "schemaName": "DWH&Crm_Sites",
+                        "expression": null,
+                        "customCode": null,
+                        "columns": [
+                            {
+                                "oid": "934a55ef-6cc4-4940-af6e-7a1507de46c2",
+                                "id": "customer_key",
+                                "name": "customer_key",
+                                "type": 18,
+                                "size": 10,
+                                "precision": 4000,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": false,
+                                "description": null
+                            },
+                            {
+                                "oid": "b41f9248-76f7-4616-bb1d-96bfa98fbd37",
+                                "id": "employee_key",
+                                "name": "employee_key",
+                                "type": 18,
+                                "size": 10,
+                                "precision": 4000,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": false,
+                                "description": null
+                            },
+                            {
+                                "oid": "6b2b10d1-736f-4285-bf07-c5c455ee0f86",
+                                "id": "site_id",
+                                "name": "site_id",
+                                "type": 0,
+                                "size": 10,
+                                "precision": 20,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            },
+                            {
+                                "oid": "3564c317-19bd-4da1-852d-6fe08704df99",
+                                "id": "locale_group_id",
+                                "name": "locale_group_id",
+                                "type": 8,
+                                "size": 10,
+                                "precision": 10,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            },
+                            {
+                                "oid": "86131444-0e9c-4801-9827-252a157d6ada",
+                                "id": "date_key",
+                                "name": "date_key",
+                                "type": 8,
+                                "size": 10,
+                                "precision": 10,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            },
+                            {
+                                "oid": "dd58d0d8-b30f-4e56-9421-9651fb1e6f5a",
+                                "id": "ftd_ind",
+                                "name": "ftd_ind",
+                                "type": 0,
+                                "size": 10,
+                                "precision": 20,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            },
+                            {
+                                "oid": "46a82f99-d950-475b-86e0-90ca47f2e4fc",
+                                "id": "is_redeposit",
+                                "name": "is_redeposit",
+                                "type": 8,
+                                "size": 10,
+                                "precision": 10,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            },
+                            {
+                                "oid": "dcc3946c-1a0a-43ec-a76a-b8d8f888bee9",
+                                "id": "is_1k_redeposit",
+                                "name": "is_1k_redeposit",
+                                "type": 8,
+                                "size": 10,
+                                "precision": 10,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            },
+                            {
+                                "oid": "a699c3af-2f7b-4255-990e-b82c51b2e4e1",
+                                "id": "net_deposit_usd",
+                                "name": "net_deposit_usd",
+                                "type": 40,
+                                "size": 10,
+                                "precision": 38,
+                                "scale": 10,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            }
+                        ],
+                        "buildBehavior": {
+                            "type": "sync",
+                            "accumulativeConfig": null
+                        },
+                        "tupleTransformations": [],
+                        "hidden": false,
+                        "vTag": "d30245a0-66bb-46d7-94d1-fab2d987cf66",
+                        "configOptions": {
+                            "importQuery": "select\ncustomer_key,\nemployee_key,\nsite_id,\nlocale_group_id,\ndate_key,\nftd_ind,\nis_redeposit,\nis_1k_redeposit,\nnet_deposit_usd\nfrom Transactions"
+                        },
+                        "description": null,
+                        "tags": null
+                    }
+                ]
+            },
+            "connection": {
+                "id": "617267ae14c791002c11eb87",
+                "provider": "EC2EC",
+                "parameters": "aqjD6ehKeWavTqiO+X+bSDStr0aggJ3F/ItPZagHQgjYXHAjs16W2mHVM4vDB9zS2uGCGOJ7cNjeU2sl5nLET4VioZpQDYAcOr06kmfvEKGbE9lShK2zRhOxVj+vX8/2y5/ff725kEqR3+tYqjB6bw==",
+                "schema": "DWH&Crm_Sites",
+                "fileName": null,
+                "timeout": 300,
+                "autoRefresh": null,
+                "refreshRate": null,
+                "resultLimit": null,
+                "protectedParameters": [
+                    "password"
+                ],
+                "uiParams": {},
+                "globalTableConfigOptions": null
+            }
+        },
+        {
+            "oid": "83077b43-7c5e-4fdc-af93-3e51d6796964",
+            "fullname": "EC2EC:e147c0d0-b1c9-4487-a610-e1e8e78ec811",
+            "type": "extract",
+            "name": "e147c0d0-b1c9-4487-a610-e1e8e78ec811",
+            "modelingTransformations": [],
+            "schema": {
+                "tables": [
+                    {
+                        "oid": "28087519-e168-429c-879e-454a6913b2bd",
+                        "id": "tq_3yzSHxeAb",
+                        "name": "customers",
+                        "type": "base",
+                        "schemaName": "",
+                        "expression": null,
+                        "customCode": null,
+                        "columns": [
+                            {
+                                "oid": "3000e54d-45e5-4f12-88a5-4122601da598",
+                                "id": "customer_key",
+                                "name": "customer_key",
+                                "type": 18,
+                                "size": 10,
+                                "precision": 4000,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": false,
+                                "description": null
+                            },
+                            {
+                                "oid": "eefec0d9-793d-425c-aa68-08b29a701133",
+                                "id": "site_id",
+                                "name": "site_id",
+                                "type": 0,
+                                "size": 10,
+                                "precision": 20,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            },
+                            {
+                                "oid": "6318f7a8-5201-4a53-b4ce-c3fc6018ce8e",
+                                "id": "FirstDepositDate",
+                                "name": "FirstDepositDate",
+                                "type": 4,
+                                "size": 10,
+                                "precision": 20,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            },
+                            {
+                                "oid": "2d7d49a8-7b10-47fc-8891-f9ad7195c1b7",
+                                "id": "FTDInd",
+                                "name": "FTDInd",
+                                "type": 0,
+                                "size": 10,
+                                "precision": 20,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            },
+                            {
+                                "oid": "3a374b6d-2c26-4d98-881e-cebac8e26bf2",
+                                "id": "campaign_sub_id_new",
+                                "name": "campaign_sub_id_new",
+                                "type": 18,
+                                "size": 10,
+                                "precision": 4000,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            },
+                            {
+                                "oid": "7433f836-f04a-4ca4-82c1-115e09e55673",
+                                "id": "sub_campaign",
+                                "name": "sub_campaign",
+                                "type": 18,
+                                "size": 10,
+                                "precision": 4000,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            },
+                            {
+                                "oid": "f76fecc7-bed6-4deb-9855-ce82cffad82a",
+                                "id": "country_name",
+                                "name": "country_name",
+                                "type": 18,
+                                "size": 10,
+                                "precision": 4000,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            }
+                        ],
+                        "buildBehavior": {
+                            "type": "sync",
+                            "accumulativeConfig": null
+                        },
+                        "tupleTransformations": [],
+                        "hidden": false,
+                        "vTag": "b7fa7965-e919-488c-bf08-1b72753e84c4",
+                        "configOptions": {
+                            "importQuery": "select \ncustomer_key,\nsite_id,\nFirstDepositDate,\nFTDInd,\ncampaign_sub_id_new,\nsub_campaign,\ncountry_name\nfrom customers \nwhere 1=1\nand ftdind = 1"
+                        },
+                        "description": null,
+                        "tags": null
+                    }
+                ]
+            },
+            "connection": {
+                "id": "6172681914c791002c11eb88",
+                "provider": "EC2EC",
+                "parameters": "aqjD6ehKeWavTqiO+X+bSDStr0aggJ3F/ItPZagHQgjYXHAjs16W2mHVM4vDB9zS2uGCGOJ7cNjeU2sl5nLET4VioZpQDYAcOr06kmfvEKGbE9lShK2zRhOxVj+vX8/2y5/ff725kEqR3+tYqjB6bw==",
+                "schema": "DWH&Crm_Sites",
+                "fileName": null,
+                "timeout": 300,
+                "autoRefresh": null,
+                "refreshRate": null,
+                "resultLimit": null,
+                "protectedParameters": [
+                    "password"
+                ],
+                "uiParams": {},
+                "globalTableConfigOptions": null
+            }
+        },
+        {
+            "oid": "9b4294f1-f8ae-45e5-a4df-1505224e41ca",
+            "fullname": "EC2EC:46c165f2-7aa5-4013-bfcf-c62b67d7c027",
+            "type": "extract",
+            "name": "46c165f2-7aa5-4013-bfcf-c62b67d7c027",
+            "modelingTransformations": [],
+            "schema": {
+                "tables": [
+                    {
+                        "oid": "d263965f-0889-478c-8e9e-7e8e7147a76e",
+                        "id": "tq_4noSgu8JT",
+                        "name": "movements",
+                        "type": "base",
+                        "schemaName": "TempTableQuerySchema",
+                        "expression": null,
+                        "customCode": null,
+                        "columns": [
+                            {
+                                "oid": "f654e72a-8c31-410f-be0a-b457e71d81b2",
+                                "id": "customer_key",
+                                "name": "customer_key",
+                                "type": 18,
+                                "size": 10,
+                                "precision": 4000,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": false,
+                                "description": null
+                            },
+                            {
+                                "oid": "b1c60506-a533-4280-be3e-5c7194f3d88b",
+                                "id": "employee_key",
+                                "name": "employee_key",
+                                "type": 18,
+                                "size": 10,
+                                "precision": 4000,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": false,
+                                "description": null
+                            },
+                            {
+                                "oid": "21049604-4217-456f-a52c-af62e2b61c46",
+                                "id": "ftd_date_key",
+                                "name": "ftd_date_key",
+                                "type": 8,
+                                "size": 10,
+                                "precision": 10,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            },
+                            {
+                                "oid": "b2549159-e678-4cb5-bd70-9b25169d3c6a",
+                                "id": "locale_group_id",
+                                "name": "locale_group_id",
+                                "type": 8,
+                                "size": 10,
+                                "precision": 10,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            },
+                            {
+                                "oid": "4f26c772-9970-4b25-9f28-c20afcf3419a",
+                                "id": "first_retention_agent",
+                                "name": "first_retention_agent",
+                                "type": 0,
+                                "size": 10,
+                                "precision": 20,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            },
+                            {
+                                "oid": "9a323d79-9248-452d-a8a2-f317cab27ddf",
+                                "id": "site_id",
+                                "name": "site_id",
+                                "type": 0,
+                                "size": 10,
+                                "precision": 20,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            }
+                        ],
+                        "buildBehavior": {
+                            "type": "sync",
+                            "accumulativeConfig": null
+                        },
+                        "tupleTransformations": [],
+                        "hidden": false,
+                        "vTag": "921aa3b5-7726-479d-b197-72ed44077a4f",
+                        "configOptions": {
+                            "importQuery": "select \ncustomer_key,  \nemployee_key,\nftd_date_key,\nlocale_group_id,\nfirst_retention_agent,\nsite_id\nfrom movements \nwhere 1=1\nand first_retention_agent = 1"
+                        },
+                        "description": null,
+                        "tags": null
+                    }
+                ]
+            },
+            "connection": {
+                "id": "617266a514c791002c11eb7f",
+                "provider": "EC2EC",
+                "parameters": "aqjD6ehKeWavTqiO+X+bSDStr0aggJ3F/ItPZagHQgjYXHAjs16W2mHVM4vDB9zS2uGCGOJ7cNjeU2sl5nLET4VioZpQDYAcOr06kmfvEKGbE9lShK2zRhOxVj+vX8/2y5/ff725kEqR3+tYqjB6bw==",
+                "schema": "TempTableQuerySchema",
+                "fileName": null,
+                "timeout": 300,
+                "autoRefresh": null,
+                "refreshRate": null,
+                "resultLimit": null,
+                "protectedParameters": [
+                    "password"
+                ],
+                "uiParams": {},
+                "globalTableConfigOptions": null
+            }
+        },
+        {
+            "oid": "9cf97f9e-72d1-4f0c-9923-0d6cc762474a",
+            "fullname": "EC2EC:eb5ce452-7518-4139-ba3f-24a6d5f67cea",
+            "type": "extract",
+            "name": "eb5ce452-7518-4139-ba3f-24a6d5f67cea",
+            "modelingTransformations": [],
+            "schema": {
+                "tables": [
+                    {
+                        "oid": "7a01fa7a-60bd-463f-915c-f65f3ce1443e",
+                        "id": "tq_cEAPzyLmI",
+                        "name": "Sites",
+                        "type": "base",
+                        "schemaName": "",
+                        "expression": null,
+                        "customCode": null,
+                        "columns": [
+                            {
+                                "oid": "833a8ad4-da31-4d57-96fa-aacf97ca300a",
+                                "id": "SiteId",
+                                "name": "SiteId",
+                                "type": 0,
+                                "size": 10,
+                                "precision": 20,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            },
+                            {
+                                "oid": "d21caeb4-7cbc-45e4-877b-96e0555c6e1d",
+                                "id": "site_filter",
+                                "name": "site_filter",
+                                "type": 0,
+                                "size": 10,
+                                "precision": 20,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            },
+                            {
+                                "oid": "d4c7c909-59cb-4bb0-ac34-3e00ef84d4e8",
+                                "id": "SiteName",
+                                "name": "SiteName",
+                                "type": 18,
+                                "size": 10,
+                                "precision": 4000,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": false,
+                                "description": null
+                            },
+                            {
+                                "oid": "b38c5846-23c2-4636-b13b-45974064eb73",
+                                "id": "sites_group",
+                                "name": "sites_group",
+                                "type": 18,
+                                "size": 10,
+                                "precision": 4000,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": false,
+                                "description": null
+                            },
+                            {
+                                "oid": "19615da7-56a6-4183-a453-307e2d83c6cf",
+                                "id": "site_name_filter",
+                                "name": "site_name_filter",
+                                "type": 18,
+                                "size": 10,
+                                "precision": 4000,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": false,
+                                "description": null
+                            },
+                            {
+                                "oid": "ebd3ef50-b1bc-4832-9069-e74329cd85c3",
+                                "id": "site_group",
+                                "name": "site_group",
+                                "type": 18,
+                                "size": 10,
+                                "precision": 4000,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": false,
+                                "description": null
+                            },
+                            {
+                                "oid": "ec4de256-9156-4cef-a46e-e2f4598c83d0",
+                                "id": "sites_company",
+                                "name": "sites_company",
+                                "type": 18,
+                                "size": 10,
+                                "precision": 4000,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": false,
+                                "description": null
+                            },
+                            {
+                                "oid": "6c640a07-048f-4fbe-924b-b070d268cee5",
+                                "id": "site_id_group",
+                                "name": "site_id_group",
+                                "type": 18,
+                                "size": 10,
+                                "precision": 4000,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            },
+                            {
+                                "oid": "ded6ea53-58a5-4652-bd1c-1c9426ecc903",
+                                "id": "Join_link",
+                                "name": "Join_link",
+                                "type": 18,
+                                "size": 10,
+                                "precision": 4000,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": false,
+                                "description": null
+                            },
+                            {
+                                "oid": "db0ca18b-e126-4554-876f-c13ef4d27c1d",
+                                "id": "sites_company_compare",
+                                "name": "sites_company_compare",
+                                "type": 18,
+                                "size": 10,
+                                "precision": 4000,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            }
+                        ],
+                        "buildBehavior": {
+                            "type": "sync",
+                            "accumulativeConfig": null
+                        },
+                        "tupleTransformations": [],
+                        "hidden": false,
+                        "vTag": "195b61b7-2a7a-4762-b4ca-7c8db4900f86",
+                        "configOptions": {
+                            "importQuery": "select *, sites_company as sites_company_compare\nfrom Sites"
+                        },
+                        "description": null,
+                        "tags": null
+                    }
+                ]
+            },
+            "connection": {
+                "id": "61727d1014c791002c11eb94",
+                "provider": "EC2EC",
+                "parameters": "aqjD6ehKeWavTqiO+X+bSDStr0aggJ3F/ItPZagHQgjYXHAjs16W2mHVM4vDB9zS2uGCGOJ7cNjeU2sl5nLET4VioZpQDYAcOr06kmfvEKGbE9lShK2zRhOxVj+vX8/2y5/ff725kEqR3+tYqjB6bw==",
+                "schema": "TempTableQuerySchema",
+                "fileName": null,
+                "timeout": 300,
+                "autoRefresh": null,
+                "refreshRate": null,
+                "resultLimit": null,
+                "protectedParameters": [
+                    "password"
+                ],
+                "uiParams": {},
+                "globalTableConfigOptions": null
+            }
+        },
+        {
+            "oid": "a73a2115-b910-4d62-a82e-033a57d593b5",
+            "fullname": "EC2EC:1749c182-aed2-478d-9b17-ab4b56fc71df",
+            "type": "extract",
+            "name": "1749c182-aed2-478d-9b17-ab4b56fc71df",
+            "modelingTransformations": [],
+            "schema": {
+                "tables": [
+                    {
+                        "oid": "1b8c98b9-89d7-4a9a-ad9c-d60ff1277919",
+                        "id": "Employees",
+                        "name": "Employees",
+                        "type": "base",
+                        "schemaName": "DWH&Crm_Sites",
+                        "expression": null,
+                        "customCode": null,
+                        "columns": [
+                            {
+                                "oid": "b1fe6427-a693-466d-8d78-c28db64717ed",
+                                "id": "employee_id",
+                                "name": "employee_id",
+                                "type": 0,
+                                "size": 20,
+                                "precision": 20,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            },
+                            {
+                                "oid": "d558b0a8-029d-4f86-b999-69ae4b97beb9",
+                                "id": "is_active",
+                                "name": "is_active",
+                                "type": 8,
+                                "size": 10,
+                                "precision": 10,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            },
+                            {
+                                "oid": "5934b12c-5250-4a7e-9e09-9003d292c458",
+                                "id": "site_id",
+                                "name": "site_id",
+                                "type": 0,
+                                "size": 20,
+                                "precision": 20,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            },
+                            {
+                                "oid": "b7fd58ff-1d39-4bb4-9ca3-fee32f2e1d78",
+                                "id": "employee_key",
+                                "name": "employee_key",
+                                "type": 18,
+                                "size": 4000,
+                                "precision": 4000,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": false,
+                                "description": null
+                            },
+                            {
+                                "oid": "5b0d2e9b-0bff-4fff-adfb-1e01278a83bb",
+                                "id": "first_name",
+                                "name": "first_name",
+                                "type": 18,
+                                "size": 4000,
+                                "precision": 4000,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": false,
+                                "description": null
+                            },
+                            {
+                                "oid": "86e2f270-9335-4885-b483-afeaa42e8cc9",
+                                "id": "last_name",
+                                "name": "last_name",
+                                "type": 18,
+                                "size": 4000,
+                                "precision": 4000,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": false,
+                                "description": null
+                            },
+                            {
+                                "oid": "4c07799a-b4e6-47de-9e4f-6fe35ee85bd3",
+                                "id": "full_name",
+                                "name": "full_name",
+                                "type": 18,
+                                "size": 4000,
+                                "precision": 4000,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": false,
+                                "description": null
+                            },
+                            {
+                                "oid": "5222ef78-8361-4f99-aa19-c957270bb819",
+                                "id": "full_name_duplicate",
+                                "name": "full_name_duplicate",
+                                "type": 18,
+                                "size": 4000,
+                                "precision": 4000,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": false,
+                                "description": null
+                            },
+                            {
+                                "oid": "268d3593-918c-43b7-8839-3401d4f178e6",
+                                "id": "team_name",
+                                "name": "team_name",
+                                "type": 18,
+                                "size": 4000,
+                                "precision": 4000,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": false,
+                                "description": null
+                            },
+                            {
+                                "oid": "d26b5e14-32ca-447e-ae11-4ae4a73083ed",
+                                "id": "team_name_filter",
+                                "name": "team_name_filter",
+                                "type": 18,
+                                "size": 4000,
+                                "precision": 4000,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": false,
+                                "description": null
+                            },
+                            {
+                                "oid": "fe84bf4b-e489-4962-92fb-7f9d7837268e",
+                                "id": "department",
+                                "name": "department",
+                                "type": 18,
+                                "size": 4000,
+                                "precision": 4000,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": false,
+                                "description": null
+                            },
+                            {
+                                "oid": "879384e4-4cae-4d7a-9d2e-c7e7311e63c5",
+                                "id": "group_name",
+                                "name": "group_name",
+                                "type": 18,
+                                "size": 4000,
+                                "precision": 4000,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": false,
+                                "description": null
+                            },
+                            {
+                                "oid": "4fa0382b-eec0-42c4-a62c-dbd17c78608e",
+                                "id": "group_name_compare",
+                                "name": "group_name_compare",
+                                "type": 18,
+                                "size": 4000,
+                                "precision": 4000,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": false,
+                                "description": null
+                            },
+                            {
+                                "oid": "3936be1a-23bd-47af-b0e4-74e1519481c6",
+                                "id": "Column",
+                                "name": "Column",
+                                "type": 8,
+                                "size": 10,
+                                "precision": 10,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            },
+                            {
+                                "oid": "a3590339-ebfa-4431-a3d6-1cf25bb89e90",
+                                "id": "site_filter",
+                                "name": "site_filter",
+                                "type": 0,
+                                "size": 20,
+                                "precision": 20,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            },
+                            {
+                                "oid": "b54890e5-b23f-475c-931b-fffde94247ce",
+                                "id": "employees_join",
+                                "name": "employees_join",
+                                "type": 8,
+                                "size": 10,
+                                "precision": 10,
+                                "scale": 0,
+                                "hidden": false,
+                                "indexed": true,
+                                "description": null
+                            }
+                        ],
+                        "buildBehavior": {
+                            "type": "sync",
+                            "accumulativeConfig": null
+                        },
+                        "tupleTransformations": [],
+                        "hidden": false,
+                        "vTag": "16257029-48cc-4421-b8e0-e84908df1625",
+                        "configOptions": null,
+                        "description": null,
+                        "tags": null
+                    }
+                ]
+            },
+            "connection": {
+                "id": "618cd15be589a2002cf7c92a",
+                "provider": "EC2EC",
+                "parameters": "0uJay0RlWn75SYw5xVdoLe9Qv9iSeqjCcm0voEloMHq6s6kK0s+gmqI3cs9xCKAJDUAj3jCouR8s34/npZ4PEO+lD5tU29F58qM25sXlwMvDmrRfMLj1umG1sYbrlhKnp5/Vvl7qNjgog2FvKp6xfw==",
+                "schema": "DWH&Crm_Sites",
+                "fileName": null,
+                "timeout": 300,
+                "autoRefresh": null,
+                "refreshRate": null,
+                "resultLimit": null,
+                "protectedParameters": [
+                    "password"
+                ],
+                "uiParams": {},
+                "globalTableConfigOptions": null
+            }
+        }
+    ]
+}
